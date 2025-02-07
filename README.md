@@ -4,7 +4,7 @@ In this pproject, I will design the tables to hold data in the CSVs, import the 
 
 Data Modeling
 
-From inspecting the CSVs, here is my ERD:
+From inspecting the CSVs, the image below is the ERD:
 ![image alt](https://github.com/Irofo56/sql-challenge/blob/6a8212abc971b6dbcd51d49bbe6375756319ece9/ERD.png)
 Data Engineering
 
