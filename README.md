@@ -5,7 +5,7 @@ In this pproject, I will design the tables to hold data in the CSVs, import the 
 Data Modeling
 
 From inspecting the CSVs, here is my ERD:
-![Uploading Screenshot 2025-02-06 at 6.20.28 PM.png…]()
+[![Uploading Screenshot 2025-02-06 at 6.20.28 PM.png…]()](https://github.com/Irofo56/sql-challenge/blob/6a8212abc971b6dbcd51d49bbe6375756319ece9/ERD.png)
 Data Engineering
 
 Use the provided information to create a table schema for each of the six CSV files. Remember to specify data types, primary keys, foreign keys, and other constraints.
